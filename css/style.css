@@ -1,0 +1,16 @@
+body {
+    background-color: blueviolet;
+    margin: 50px;
+}
+p {
+    background-color: brown;
+    padding: 10px;
+    border: 2px solid rgb(129, 172, 44);
+    border-radius: 8%;
+    font-size: 30px;
+}
+div {
+    color: blue;
+    text-align: center;
+    width: 80%;
+}
